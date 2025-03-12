@@ -33,7 +33,7 @@ The analysis includes the following key components:
 - Profitability Analysis: Insights into profit margins and overall profitability.
 
 ## Screenshot
-![Power BI Dashboard]![Screenshot](https://github.com/saif131/Walmart-Financial-Analysis/raw/main/Screenshot%20(248).png)
+![Screenshot](https://github.com/saif131/Walmart-Financial-Analysis/raw/main/Screenshot%20(248).png)
 
 ## Conclusion
 This project provides a comprehensive financial analysis of Walmart, leveraging the powerful visualization capabilities of Power BI. It serves as a valuable resource for understanding Walmart's financial health and making informed business decisions.
